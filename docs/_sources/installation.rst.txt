@@ -6,7 +6,7 @@ Basic Install
 
 You can install ISAMBARD from pip:
 
-``pip install ampal``
+``pip install isambard``
 
 Installing from Source
 ----------------------
