@@ -32,8 +32,7 @@ pip install .
 
 ## External Programs
 
-If you want to add side chains to your designs, you need to have [Scwrl4](
-http://dunbrack.fccc.edu/scwrl4/) installed and available on your system path.
+If you want to add side chains to your designs, you need to have [Scwrl4](http://dunbrack.fccc.edu/lab/scwrl) installed and available on your system path.
 
 ## Upgrading to ISAMBARD 2
 
